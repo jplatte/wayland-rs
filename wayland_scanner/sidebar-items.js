@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Side","Side to generate"]],"fn":[["generate_code","Generate the code for a protocol"],["generate_interfaces","Generate the interfaces for a protocol"]]});
